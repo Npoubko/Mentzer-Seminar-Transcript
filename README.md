@@ -2,7 +2,7 @@
 
 # Mentzer Seminar Transcript
 
-A text (PDF) translation of Mike's 1998 "underground" seminar. I used the Google speech-to-text API to generate it, then edited it myself. Google was about 90% accurate. 
+A text (PDF) translation of Mike Mentzer's 1998 "underground" seminar. I used the Google speech-to-text API to generate it, then edited it myself. Google was about 90% accurate. 
 
 ### TODO How to Download
 Click the file titled [mikementzer_seminar_transcript.pdf](https://github.com/Npoubko/MentzerCassetteTranscript/blob/main/mikementzer_seminar_transcript.pdf).
