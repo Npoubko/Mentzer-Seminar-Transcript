@@ -5,7 +5,7 @@
 A text (PDF) translation of Mike Mentzer's 1998 bodybuilding "underground" seminar. I used the Google speech-to-text API to generate it, then edited it myself. Google was about 90% accurate. 
 
 ### TODO How to Download
-Click the file titled [mikementzer_seminar_transcript.pdf](https://github.com/Npoubko/MentzerCassetteTranscript/blob/main/mikementzer_seminar_transcript.pdf).
+Click the file titled [mikementzer_seminar_transcript.pdf](https://github.com/Npoubko/MentzerSeminarTranscript/blob/main/mikementzer_seminar_transcript.pdf).
 
 ### How to Listen
 The original seminar recording can be found [here](https://www.youtube.com/watch?v=c8CXe7PvEXo).
